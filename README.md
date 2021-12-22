@@ -18,6 +18,7 @@
 
 ```
 **夢は逃げない、逃げるのはいつも自分だ**  
+> 工作了 orz 很少有时间在 github 提代码了
 
 <!--
 **SKTT1Ryze/SKTT1Ryze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
