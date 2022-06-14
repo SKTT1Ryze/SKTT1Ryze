@@ -1,8 +1,9 @@
 ### So hold on no matter what, we'll take our bruises and our bumps.
 ### But know until kingdom come, you're not alone.
 
-* ☔ Operation System
-* ☀️ RISC-V
+* ☔ TypeScript
+* ☀️ React
+* ⚽️ Babylon.js
 * ✈️ Rust
 
 ```
