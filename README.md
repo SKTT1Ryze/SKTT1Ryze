@@ -6,6 +6,8 @@
 * ⚽️ Babylon.js
 * ✈️ Rust
 
+**Best Personal Technical Support Award** of the first **Operation System Competition** in China.
+
 ```
   .-')    .-. .-')    .-') _     .-') _            _  .-')                   .-') _     ('-.   
  ( OO ).  \  ( OO )  (  OO) )   (  OO) )          ( \( -O )                 (  OO) )  _(  OO)  
