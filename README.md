@@ -8,6 +8,8 @@
 
 **Best Personal Technical Support Award** of the first **Operation System Competition** in China.
 
+Currently Rust/C++ engineer in ByteDance.
+
 ```
   .-')    .-. .-')    .-') _     .-') _            _  .-')                   .-') _     ('-.   
  ( OO ).  \  ( OO )  (  OO) )   (  OO) )          ( \( -O )                 (  OO) )  _(  OO)  
@@ -21,7 +23,6 @@
 
 ```
 **夢は逃げない、逃げるのはいつも自分だ**  
-> 工作了 orz 很少有时间在 github 提代码了
 
 <!--
 **SKTT1Ryze/SKTT1Ryze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
