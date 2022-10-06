@@ -1,14 +1,16 @@
 ### So hold on no matter what, we'll take our bruises and our bumps.
 ### But know until kingdom come, you're not alone.
 
-* ☔ TypeScript
-* ☀️ React
-* ⚽️ Babylon.js
 * ✈️ Rust
+* ☔ TypeScript
+* ☀️ GameDev
+* ⚽️ FullStack
 
 **Best Personal Technical Support Award** of the first **Operation System Competition** in China.
 
-Currently Rust/C++ engineer in ByteDance.
+Currently Rust/C++ engineer in [ByteDance](https://www.bytedance.com/en/).
+
+Worked on [DarkNeos](https://github.com/DarkNeos) in spare time.
 
 ```
   .-')    .-. .-')    .-') _     .-') _            _  .-')                   .-') _     ('-.   
