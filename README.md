@@ -10,7 +10,7 @@
 
 Currently Rust/C++ engineer in [ByteDance](https://www.bytedance.com/en/).
 
-Worked on [Neos]([https://github.com/DarkNeos](https://code.mycard.moe/mycard/Neos)) in spare time.
+Worked on [Neos](https://code.mycard.moe/mycard/Neos) in spare time.
 
 ```
   .-')    .-. .-')    .-') _     .-') _            _  .-')                   .-') _     ('-.   
