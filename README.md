@@ -1,10 +1,10 @@
 ### So hold on no matter what, we'll take our bruises and our bumps.
 ### But know until kingdom come, you're not alone.
 
-* ✈️ Rust
-* ☔ TypeScript
-* ☀️ GameDev
-* ⚽️ FullStack
+*  :crab: Rust
+* ☔ React
+* ☀️ Babylonjs
+* ⚽️ OsDev
 
 **Best Personal Technical Support Award** of the first **Operation System Competition** in China.
 
