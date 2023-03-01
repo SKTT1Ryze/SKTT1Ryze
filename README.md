@@ -10,7 +10,7 @@
 
 Currently Rust/C++ engineer in [ByteDance](https://www.bytedance.com/en/).
 
-Maintainer of [**Neos**](https://github.com/DarkNeos/neos-ts) in spare time, which is a web version of Yu-Gi-Oh! game deployed on http://neos.moe.
+Maintainer of [**Neos**](https://github.com/DarkNeos/neos-ts) in spare time, which is a web version of Yu-Gi-Oh! game deployed on https://www.neos.moe.
 
 ```
   .-')    .-. .-')    .-') _     .-') _            _  .-')                   .-') _     ('-.   
