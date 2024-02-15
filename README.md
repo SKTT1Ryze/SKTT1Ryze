@@ -2,7 +2,7 @@
 ### But know until kingdom come, you're not alone.
 
 ## Skills
-<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width=60 /></a>
+<a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width=60 /></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" width=60/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width=60/></a>
 <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width=60 /></a>
